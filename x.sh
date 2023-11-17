@@ -15,5 +15,3 @@ mkdir packages/component-react
 mkdir packages/component-angular
 
 mkdir doc
-
-npx create-docusaurus@latest document classic
