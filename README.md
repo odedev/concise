@@ -77,13 +77,9 @@ pnpm add -w axios
 │   └── pom.xml
 │
 │
-├── common   Rush 目录
-│
 ├── document 文档
 │
 ├── pnpm-workspace.yaml   pnpm workspace 配置文件
-│
-├── rush.json   Rush 配置文件
 │
 ├── CHANGELOG.md
 └── README.md
